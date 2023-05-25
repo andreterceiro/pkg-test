@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "pkg": "^5.8.1"
   },
-  "bin": "index.js"
+  "bin": "index.js",
+  "target": "node7"
 }
